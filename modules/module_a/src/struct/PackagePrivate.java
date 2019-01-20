@@ -1,0 +1,4 @@
+package struct;
+
+class ReallyPackagePrivate {
+}
