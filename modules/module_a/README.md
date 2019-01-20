@@ -1,4 +1,4 @@
-# Moduł 1. Podstawy: kompilatora, maszyna wirtualna, wartości, zmienne i metody
+# Moduł 1. Podstawy: kompilator, maszyna wirtualna, wartości, zmienne i metody
 
 Naszym wspólnym zadaniem jest przygotowanie Cię do pracy z kodem źródłowym języka Java. Co rozumiem, przez
 pojęcie przygotowanie? W całej nauce języka Java spotkasz się z milionami linii kodu napisanego przez innych programistów,
